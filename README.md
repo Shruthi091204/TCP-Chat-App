@@ -15,7 +15,7 @@ This project allows multiple clients to connect to a server and chat with each o
 ---
 
 ## Technologies Used
-- Python 3.x
+- VS Studio Code
 - socket (built-in Python library)
 - threading (built-in Python library)
 
